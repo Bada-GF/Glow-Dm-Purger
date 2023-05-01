@@ -1,5 +1,5 @@
 {
-  "name": "luna purger",
+  "name": "endclear",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -12,7 +12,8 @@
   "dependencies": {
     "colors": "^1.4.0",
     "discord-rpc": "^4.0.1",
-    "discord-selfbot-v12": "^12.4.3",
+    "discord-selfbott-v12": "^12.2.3",
+    "file-uri-to-path": "^2.0.0",
     "request": "^2.88.2"
   }
 }
