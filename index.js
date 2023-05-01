@@ -11,7 +11,7 @@ const request = require("request");
 const colors = require('colors')
 const {
     Client
-} = require('discord-selfbot-v12')
+} = require('discord-selfbott-v12')
 const rpc = require('discord-rpc')
 
 const client = new Client(),
